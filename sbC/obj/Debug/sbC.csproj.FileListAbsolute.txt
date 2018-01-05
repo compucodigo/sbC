@@ -1,0 +1,15 @@
+D:\SB\sbC\sbC\bin\Debug\sbC.exe.config
+D:\SB\sbC\sbC\bin\Debug\sbC.exe
+D:\SB\sbC\sbC\bin\Debug\sbC.pdb
+D:\SB\sbC\sbC\bin\Debug\CapaPresentacion.dll
+D:\SB\sbC\sbC\bin\Debug\CapaNegocio.dll
+D:\SB\sbC\sbC\bin\Debug\CapaDatos.dll
+D:\SB\sbC\sbC\bin\Debug\CapaPresentacion.pdb
+D:\SB\sbC\sbC\bin\Debug\CapaNegocio.pdb
+D:\SB\sbC\sbC\bin\Debug\CapaDatos.pdb
+D:\SB\sbC\sbC\obj\Debug\sbC.csprojResolveAssemblyReference.cache
+D:\SB\sbC\sbC\obj\Debug\sbC.Form1.resources
+D:\SB\sbC\sbC\obj\Debug\sbC.Properties.Resources.resources
+D:\SB\sbC\sbC\obj\Debug\sbC.csproj.GenerateResource.Cache
+D:\SB\sbC\sbC\obj\Debug\sbC.exe
+D:\SB\sbC\sbC\obj\Debug\sbC.pdb
